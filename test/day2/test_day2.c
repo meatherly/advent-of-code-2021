@@ -14,7 +14,8 @@ void tearDown(void)
 
 void test_day2(void)
 {
-    day2_results();
+    day2_part1_results();
+    day2_part2_results();
 }
 
 #endif // TEST
