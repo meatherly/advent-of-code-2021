@@ -1,0 +1,7 @@
+{
+  "C_Cpp.clang_format_style": "Microsoft",
+  "ceedlingExplorer.debugConfiguration": "Ceedling Test Explorer Debug",
+  "files.associations": {
+    "cmath": "c"
+  }
+}
